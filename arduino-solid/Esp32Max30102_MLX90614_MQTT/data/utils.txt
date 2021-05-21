@@ -1,0 +1,18 @@
+MQTT END POINT
+
+a1lmh1knpirix7-ats.iot.us-east-2.amazonaws.com
+
+
+TUTORIAL
+
+https://youtu.be/j3NfwWTEJdg
+
+CODE
+
+https://github.com/sharmashrey48/temp_esp32-AWS_IOT-/blob/main/temp_esp32.ino
+
+
+
+REFERENCE : Install ESP32 Filesystem Uploader in Arduino IDE
+
+https://randomnerdtutorials.com/install-esp32-filesystem-uploader-arduino-ide/

@@ -1,0 +1,39 @@
+See documentation:
+
+https://docs.amplify.aws/start/getting-started/setup/q/integration/android
+
+
+https://docs.amplify.aws/cli/start/install#install-the-amplify-cli
+
+https://docs.amplify.aws/sdk/pubsub/working-api/q/platform/android
+
+https://docs.amplify.aws/lib/q/platform/android
+
+
+servers
+
+https://docs.aws.amazon.com/iot/latest/developerguide/server-authentication.html?icmpid=docs_iot_console#server-authentication-certs
+
+
+AWS IoT Proxy Mobile 
+
+
+https://github.com/aws-samples/aws-iot-proxy-mobile-app-android
+
+
+AWS Mobile SDK for Android Samples
+
+
+https://github.com/felipemeriga/aws-sdk-android-samples
+
+
+Android App + AWS IoT Core Guide
+
+
+https://feliperamos.dev.br/android-app-aws-iot-core-guide
+
+
+esp32 aws
+
+
+https://github.com/sharmashrey48/temp_esp32-AWS_IOT-
